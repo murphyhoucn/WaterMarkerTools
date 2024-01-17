@@ -1,14 +1,8 @@
-<h1 align="center">水印工具</h1>
-
-
+<h1 align="center">WaterMarkerTools 水印工具</h1>
 
 # WaterMarkerTools
 
 WaterMarkerTools
-
-
-
-
 
 ## To do list
 
@@ -23,9 +17,6 @@ WaterMarkerTools
 
 ## Command version
 
-
-
 ## Graphic Version
 
-
-
+qt?
